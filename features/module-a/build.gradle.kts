@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.modula.a"
+    namespace = "com.example.module.a"
     compileSdk {
         version = release(36)
     }
